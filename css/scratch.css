@@ -1,0 +1,50 @@
+.common{
+    text-align: center;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    height: 100px;
+    background-color:rgb(210, 111, 111);
+    color: white;
+    line-height: 100 px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.mainbody{
+    background-color: #b55050
+}
+
+.footer{
+    background-color: rgb(132, 56, 56);
+    color: rgb(240, 240, 240);
+    position: fixed;
+    bottom: 0px;
+    left: 1 px;
+    right: 1 px; 
+    height: 25 px;
+    padding-top: 15 px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%
+}
+
+nav a{
+    background-color: rgb(246, 246, 246);
+    padding: 10 px;
+    overflow: hidden;
+}
+
+nav{
+    font-size: 16 px;
+    font-weight: bold; 
+    text-decoration: none;
+    color: #333;
+    background-color:lightblue;
+    padding: 10px; 
+}
